@@ -2,7 +2,7 @@
   "name": "priyo-ishkool-client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jihadchowdhory.github.io",
+  "homepage": "https://jihadchowdhory.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.4",
