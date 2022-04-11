@@ -1,0 +1,30 @@
+.navSection {
+}
+.navbar {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navLink {
+  padding: 15px;
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  transition: 0.1s;
+}
+.navLink:hover {
+  border-bottom: 5px solid #df5cd9;
+  border-radius: 5px;
+}
+#navLogo {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 22px;
+  border-bottom: 5px solid #df5cd9;
+  border-radius: 5px;
+}
+.navLinks {
+  display: inline;
+}
